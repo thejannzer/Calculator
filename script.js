@@ -99,7 +99,7 @@ BtnEqual.onclick = function(){
     document.getElementById("result").textContent = result
 
     //Um Ergebnis weiter zu verwenden:
-    current = result    
+    previous = result    
     
     //Weiterverwendung von Ergebnis ist Fehlerhaft!!!
 }
